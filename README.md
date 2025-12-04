@@ -14,7 +14,7 @@ This project aims to support the virtual telecom company CallMeMaybe in detectin
 It includes end-to-end data cleaning, transformation, exploratory data analysis, and hypothesis testing to validate findings and improve service quality.
 
 <p align="center">
-  <img src="1760107807757.jpg" alt="Inefficient Operator Identification" width="650">
+  <img src="1760107807757.jpg" alt="Inefficient Operator Identification" width="60%">
 </p>
 
 ### YouTube Trending History Analysis
@@ -23,7 +23,7 @@ It includes end-to-end data cleaning, transformation, exploratory data analysis,
 Data-driven analysis of YouTube’s historical trending videos to uncover consumption patterns by category and country, aimed at informing advertising campaign planning (audience targeting, budget allocation, and content mix).
 
 <p align="center">
-  <img src="aa959ba5-4e09-4128-b436-bdfac2c7d1bc.png" alt="Inefficient Operator Identification" width="40%">
+  <img src="aa959ba5-4e09-4128-b436-bdfac2c7d1bc.png" alt="Inefficient Operator Identification" width="50%">
 </p>
 
 ### A/B Test in Food Products
@@ -33,7 +33,7 @@ This project analyzes user behavior data from a food delivery company to evaluat
 Using A/B testing and statistical analysis, the study determines whether the modification increased user engagement or conversion.
 
 <p align="center">
-  <img src="06352e09-d7ec-433d-acc2-99ab9bd96366.png" alt="Inefficient Operator Identification" width="40%">
+  <img src="06352e09-d7ec-433d-acc2-99ab9bd96366.png" alt="Inefficient Operator Identification" width="70%">
 </p>
 
 ### Used Vehicles Analysis
@@ -42,6 +42,6 @@ Using A/B testing and statistical analysis, the study determines whether the mod
 This is an interactive web application built with Streamlit to explore a dataset of vehicles for sale in the United States.
 
 <p align="center">
-  <img src="1760104837933.jpg" alt="Inefficient Operator Identification" width="40%">
+  <img src="1760104837933.jpg" alt="Inefficient Operator Identification" width="80%">
 </p>
 
